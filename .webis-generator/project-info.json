@@ -1,8 +1,36 @@
 {
   "projectName": "מכון-כושר-גמא-9191",
   "businessName": "מכון כושר גמא",
-  "created": "2025-04-09T20:06:31.581Z",
-  "status": "initialized",
-  "progress": 0,
-  "components": []
+  "description": "אנחנו מכון כושר מוביל בתחום הטכנולוגיה עם ניסיון של שנים רבות. אנחנו מתמחים במתן שירות מקצועי ואיכותי ללקוחותינו.",
+  "created": "2025-04-09T20:06:55.012Z",
+  "generatedWith": "webis-generator",
+  "repoName": "webis-site-mkvn-kvshr-gma-1744229191519",
+  "formData": {
+    "businessName": "מכון כושר גמא",
+    "businessType": "מכון כושר",
+    "industry": "קמעונאות",
+    "businessSize": "large",
+    "description": "אנחנו מכון כושר מוביל בתחום הטכנולוגיה עם ניסיון של שנים רבות. אנחנו מתמחים במתן שירות מקצועי ואיכותי ללקוחותינו.",
+    "language": "he",
+    "primaryColor": "#4ECDC4",
+    "secondaryColor": "#D4A5A5",
+    "typographyStyle": "minimal",
+    "animationPreference": "extensive",
+    "headline": "מכון כושר מוביל בישראל",
+    "descriptionText": "חווית לקוח מושלמת בכל ביקור",
+    "ctaText": "קבע תור עכשיו",
+    "formFields": "שם, טלפון, אימייל, הודעה",
+    "includeTestimonials": true,
+    "includeFAQ": false,
+    "hasProducts": true,
+    "hasServices": true,
+    "hasPortfolio": true,
+    "needsBookingSystem": false,
+    "metaDescription": "מכון כושר מוביל המספק שירות מקצועי ואיכותי. הזמינו תור עוד היום!",
+    "metaKeywords": "מכון כושר, שירות, איכות, מקצועיות, ישראל",
+    "designStyles": [
+      "neumorphic",
+      "glassmorphism"
+    ]
+  }
 }
